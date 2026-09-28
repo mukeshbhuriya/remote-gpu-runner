@@ -23,7 +23,7 @@ Requires Python 3.12+ (or 3.14).
 Run these commands on **both** your Host (GPU machine) and Client (Laptop):
 ```bash
 # Clone the repository
-git clone https://github.com/mukeshbhuriya-ctrl/local-gpu-platform.git
+git clone https://github.com/mukeshbhuriya/local-gpu-platform.git
 cd local-gpu-platform
 
 # Create a virtual environment
