@@ -1,5 +1,5 @@
 # Local GPU Platform (LAN AI/ML Remote GPU Compute)
-
+Remote GPU Runner — Execute AI/ML workloads on remote GPU machines from your laptop over a secure LAN connection.
 A robust, high-performance, and secure LAN-based AI/ML remote GPU platform. This system allows you to write ML scripts locally on any lightweight machine (like a laptop) and execute them seamlessly on a powerful centralized GPU server on the same network.
 
 ## Core Features
